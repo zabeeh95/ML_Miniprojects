@@ -1,10 +1,10 @@
-🤖 ML_Miniprojects
+**🤖 ML_Miniprojects**
 
 A collection of small-scale machine learning projects designed to practice and demonstrate core ML concepts, algorithms,
 and data analysis techniques. This repository contains multiple mini-projects implemented in Python using popular
 libraries like scikit-learn, TensorFlow, Keras, and pandas.
 
-🛠 Features
+**🛠 Features**
 
 Well-structured notebooks for step-by-step learning
 
